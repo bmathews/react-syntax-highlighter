@@ -19,7 +19,6 @@
     "css-loader": "^0.23.1",
     "react": "^15.2.0",
     "react-dom": "^15.2.0",
-    "style-loader": "^0.13.0",
     "to-camel-case": "^1.0.0",
     "webpack": "^1.12.12"
   },
